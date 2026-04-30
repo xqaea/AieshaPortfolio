@@ -136,7 +136,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
   setTimeout(type, 1100);
 
-  const CORRECT_PIN  = '258013';
+  const CORRECT_PIN  = '147369';
   let   pinEntry     = '';
   const pinDots      = document.querySelectorAll('.pin-dot');
   const pinError     = document.getElementById('pinError');
