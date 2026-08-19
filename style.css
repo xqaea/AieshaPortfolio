@@ -269,7 +269,7 @@ body {
 .np-marquee {
   overflow: hidden;
   white-space: nowrap;
-  max-width: 190px; /* 240px minus space ng dot + padding */
+  max-width: 190px; 
 }
 
 .np-marquee span {
