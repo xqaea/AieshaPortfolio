@@ -123,7 +123,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   const typingEl   = document.getElementById('typingHandle');
-  const fullText   = '@aieshayuwein';
+  const fullText   = '@xqaea';
   let   charIndex  = 0;
 
   function type() {
